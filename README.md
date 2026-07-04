@@ -8,4 +8,4 @@ This is my solution to the [Single-Page HTML CV Project](https://roadmap.sh/proj
 
 ## Project Links
 - **Live Preview:** [https://github.io](https://klein-morreti.github.io/CV-using-only-HTML/)
-- **Repository Code:** https://github.com
+- **Repository Code:** [https://github.com](https://github.com/Klein-Morreti/CV-using-only-HTML)
